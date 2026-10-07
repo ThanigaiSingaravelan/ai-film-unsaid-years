@@ -1,8 +1,19 @@
-# Unsaid Years
+<p align="center">
+  <img src="stills/poster.jpg" alt="Unsaid Years poster" width="600">
+</p>
 
-A short film. 2 minutes 59 seconds.
+<h1 align="center">Unsaid Years</h1>
 
-> Give me your 2.59 minutes.
+<p align="center">
+  A short film. 2 minutes 59 seconds.<br>
+  <em>Give me your 2.59 minutes.</em>
+</p>
+
+<p align="center">
+  <a href="#watch">Watch</a> ·
+  <a href="#how-it-was-made">How it was made</a> ·
+  <a href="#credits">Credits</a>
+</p>
 
 ---
 
@@ -24,7 +35,10 @@ Tonight he opens the chat and makes the call.
 
 | Platform | Link |
 |---|---|
-| YouTube (full film) | *https://youtu.be/3g5T5LVMC60?si=GpwV_VonQXuwE3Go* |
+| YouTube (full film) | *add link* |
+| Instagram | *add link* |
+
+Released 30 September 2026.
 
 ---
 
@@ -73,6 +87,20 @@ The method, in short:
 
 ---
 
+## Stills
+
+<p align="center">
+  <img src="stills/still-01.jpg" alt="Thane at the window" width="420">
+  <img src="stills/still-02.jpg" alt="The call connects" width="420">
+</p>
+
+<p align="center">
+  <img src="stills/still-03.jpg" alt="Campus, first semester" width="420">
+  <img src="stills/still-04.jpg" alt="Her answer" width="420">
+</p>
+
+---
+
 ## Note on the cast
 
 The female lead is an entirely original AI character, built to a fixed written description and held consistent across the film. She is not based on, and does not depict, any real or existing person.
@@ -86,9 +114,16 @@ Every frame is original generated material. No existing footage, stock library o
 ```
 /prompts      shot by shot generation prompts
 /script       screenplay
-/stills       frames and poster artwork
+/stills       poster.jpg, still-01.jpg … still-04.jpg
 /docs         production summary
 ```
+
+---
+
+## License
+
+All rights reserved. See [LICENSE](LICENSE).
+This work may not be reused, adapted or redistributed without written permission.
 
 ---
 
