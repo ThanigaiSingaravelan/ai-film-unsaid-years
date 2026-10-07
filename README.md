@@ -35,10 +35,7 @@ Tonight he opens the chat and makes the call.
 
 | Platform | Link |
 |---|---|
-| YouTube (full film) | *add link* |
-| Instagram | *add link* |
-
-Released 30 September 2026.
+| YouTube (full film) | *https://youtu.be/3g5T5LVMC60?si=_c_18YfsQZNzzTNC* |
 
 ---
 
