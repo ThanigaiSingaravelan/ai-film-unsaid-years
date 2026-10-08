@@ -127,6 +127,6 @@ This work may not be reused, adapted or redistributed without written permission
 ## Contact
 
 Thanigai Singaravelan
-thanigaisinga@gmail.com
+info@thanwise.com
 
 If the film reached you, say so. I read everything.
